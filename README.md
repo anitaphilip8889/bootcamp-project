@@ -2,7 +2,7 @@
 
 DSA project template for the Bootcamp on Nov 1st, 2025. 
 
-Provide a (https://www.kaggle.com/datasets/arsalanjamal002/student-sleep-patterns/data)](https://google.com) 
+Provide a [https://www.kaggle.com/datasets/arsalanjamal002/student-sleep-patterns/data](https://google.com) 
 [project link](https://anitaphilip8889.github.io/bootcamp-project/)
 
 
