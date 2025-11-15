@@ -6,6 +6,8 @@ Provide a [https://www.kaggle.com/datasets/arsalanjamal002/student-sleep-pattern
 
 [project link](https://anitaphilip8889.github.io/bootcamp-project/)
 
+[notebook](sleep%20patterns%20data%20bootcamp%20(5).html)
+
 
 Briefly _explain_ your **hypothesis**.
 Caffeine intake has a negative impact on student life, causing sleep patterns to be irregular.  
